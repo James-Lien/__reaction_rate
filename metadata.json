@@ -1,0 +1,6 @@
+{
+  "name": "Remix: 閃電反應力測試",
+  "description": "測試你的反應速度！在看到顏色改變的瞬間點擊螢幕，看看你能有多快。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
